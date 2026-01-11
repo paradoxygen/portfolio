@@ -2,12 +2,12 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #452d53;
     color: #333;
 }
 
 header {
-    background-color: #005f73;
+    background-color: #452d53;
     color: white;
     padding: 15px 0;
 }
@@ -147,3 +147,4 @@ footer {
         padding: 0;
     }
 }
+
