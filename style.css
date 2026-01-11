@@ -1,5 +1,5 @@
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Courier', monospace;
     margin: 0;
     padding: 0;
     background-color: #452d53;
@@ -147,4 +147,5 @@ footer {
         padding: 0;
     }
 }
+
 
