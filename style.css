@@ -45,9 +45,9 @@ nav ul li a {
     background-position: center;
     height: 400px;
     display: flex;
-    align-items: left;
-    justify-content: left;
-    text-align: left;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
     color: white;
 }
 
@@ -147,6 +147,7 @@ footer {
         padding: 0;
     }
 }
+
 
 
 
