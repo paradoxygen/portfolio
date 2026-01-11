@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #452d53;
-    color: #333;
+    color: #efefef;
 }
 
 header {
@@ -103,7 +103,7 @@ footer {
 
 /* Styling for About Section */
 #about {
-    background-color: #f0f0f0;
+    background-color: #1e2244;
     padding: 20px;
     text-align: left;
 }
@@ -115,7 +115,7 @@ footer {
 
 /* Styling for Contact Section */
 #contact {
-    background-color: #fff;
+    background-color: #2e1e44;
     padding: 20px;
     text-align: left;
 }
@@ -147,6 +147,7 @@ footer {
         padding: 0;
     }
 }
+
 
 
 
