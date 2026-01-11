@@ -2,12 +2,12 @@ body {
     font-family: 'Courier', monospace;
     margin: 0;
     padding: 0;
-    background-color: #452d53;
+    background-color: #000000;
     color: #efefef;
 }
 
 header {
-    background-color: #452d53;
+    background-color: #000000;
     color: white;
     padding: 15px 0;
 }
@@ -147,6 +147,7 @@ footer {
         padding: 0;
     }
 }
+
 
 
 
