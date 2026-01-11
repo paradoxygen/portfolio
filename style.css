@@ -2,12 +2,12 @@ body {
     font-family: 'Courier', monospace;
     margin: 0;
     padding: 0;
-    background-color: #000000;
+    background-color: #0d110e;
     color: #efefef;
 }
 
 header {
-    background-color: #000000;
+    background-color: #0d110e;
     color: white;
     padding: 15px 0;
 }
@@ -103,7 +103,7 @@ footer {
 
 /* Styling for About Section */
 #about {
-    background-color: #1e2244;
+    background-color: #0d110e;
     padding: 20px;
     text-align: left;
 }
@@ -115,7 +115,7 @@ footer {
 
 /* Styling for Contact Section */
 #contact {
-    background-color: #2e1e44;
+    background-color: #0d110e;
     padding: 20px;
     text-align: left;
 }
@@ -147,6 +147,7 @@ footer {
         padding: 0;
     }
 }
+
 
 
 
